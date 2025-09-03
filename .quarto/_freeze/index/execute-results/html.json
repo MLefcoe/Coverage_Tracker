@@ -1,0 +1,15 @@
+{
+  "hash": "37a9922be55961c4d17e22240c138fde",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Atlantic/Arctic eelgrass dataset coverage\"\n---\n\n::: {.cell}\n\n```{.r .cell-code}\ngetwd()\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] \"C:/Users/user/Documents/Work/Blue Carbon/Maps/Coverage_Tracker\"\n```\n\n\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
