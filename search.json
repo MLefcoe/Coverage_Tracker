@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Atlantic/Arctic eelgrass dataset coverage",
+    "section": "",
+    "text": "getwd()\n\n[1] \"C:/Users/user/Documents/Work/Blue Carbon/Maps/Coverage_Tracker\""
+  }
+]
